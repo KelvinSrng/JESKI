@@ -51,7 +51,7 @@ Convertirnos en una **empresa líder en el desarrollo de software en la nube**, 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/aeb42a78-9da8-4d86-969c-2518263901ed" width="150" alt="Foto de Kelvin Sarango">
+      <img width="864" height="1184" alt="Foto de Kelvin Sarango" src="https://github.com/user-attachments/assets/862c5974-b27a-48e9-9bc7-bf4656786ce4" />
       <br>
       <strong>Kelvin Sarango</strong>
       <br>
